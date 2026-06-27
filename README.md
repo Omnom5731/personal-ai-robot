@@ -192,7 +192,7 @@ sudo apt install alsa-utils ffmpeg
 | Customization | Closed hardware/software | Fully open-source & modifiable |
 | Repair | Sealed, becomes e-waste | 3D-printed body, replaceable battery |
 | AI | Fixed/proprietary | Swap in any LLM (Gemini, OpenAI, etc.) |
-| Design | Fun Wall-E style with animated eyes |
+| Design | Factory Plastic | Fun Wall-E style |
 
 
 ## 📄 License
