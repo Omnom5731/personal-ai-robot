@@ -1,4 +1,4 @@
-# 🤖 Personal AI Robot — 20251GTY35
+# Personal AI Robot — 20251GTY35
 
 A low-cost, open-source, Wall-E-style personal AI robot built on Raspberry Pi 5. It listens for a wake word, processes voice commands using Google Gemini AI, and responds with synthesized speech.
 
