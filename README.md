@@ -39,7 +39,8 @@ personal-ai-robot/
 │   ├── ai_response.py    # Gemini AI integration + conversation memory
 │   └── logger.py         # Conversation logging
 ├── hardware/
-│   └── BOM.md            # Bill of Materials with costs
+│   ├── BOM.md            # Bill of Materials with costs
+│   └── PCB_DESIGN.md     # PCB schematics and layouts
 ├── docs/
 │   └── wiring.md         # Electrical connection notes
 └── README.md
@@ -108,6 +109,24 @@ The Raspberry Pi 5 handles all tasks centrally:
 **Power:** LiPo battery → Buck converter (5V regulation) → Raspberry Pi 5 + Motor VM rail
 
 See `/docs/wiring.md` for the full connection diagram.
+
+---
+
+## 🎛️ PCB Design
+
+Custom PCB (76×68×2 mm) for motor driver integration and power distribution.
+
+### Overview
+
+The PCB features:
+- **TB6612FNG Motor Driver IC** with all GPIO control lines
+- **Power Rails:** Separate VM (motor) and VCC (logic) planes
+- **Connectors:** Raspberry Pi GPIO header, motor terminals, battery input
+- **2-Layer PCB** with optimized trace routing for motor power
+
+### Schematics & Layouts
+
+The PCB includes detailed schematics showing the motor driver connections, power distribution, and GPIO pin mappings. See `/hardware/PCB_DESIGN.md` for full schematics, board layouts, and assembly instructions.
 
 ---
 
