@@ -1,0 +1,8 @@
+SpeechRecognition
+google-generativeai
+gtts
+pydub
+python-dotenv
+luma.oled
+pygame
+pyaudio

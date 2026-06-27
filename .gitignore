@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Audio temp files
+reply.mp3
+reply.wav
+temp.wav
+
+# Logs
+conversation_log.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
