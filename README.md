@@ -1,17 +1,16 @@
 # 🤖 Personal AI Robot — 20251GTY35
 
-A low-cost, open-source, Wall-E-style personal AI robot built on Raspberry Pi 5. It listens for a wake word, processes voice commands using Google Gemini AI, and responds with synthesized speech — all for under ₹12,000.
+A low-cost, open-source, Wall-E-style personal AI robot built on Raspberry Pi 5. It listens for a wake word, processes voice commands using Google Gemini AI, and responds with synthesized speech.
 
 **Team GR-30 | MEP1001 Project**
 
-| Role | Name |
-|------|------|
-| Leader | Om Gaidhani |
-| Member | Tanvi Aggarwal |
-| Member | Nandani Porwal |
-| Member | Ankita Sahu |
-| Member | Prakash Lal |
-| TA Mentor | Al Khasim Resa |
+| Name |
+|------|
+| Om Gaidhani |
+| Tanvi Aggarwal |
+| Nandani Porwal |
+| Ankita Sahu |
+| Prakash Lal |
 
 ---
 
@@ -193,16 +192,8 @@ sudo apt install alsa-utils ffmpeg
 | Customization | Closed hardware/software | Fully open-source & modifiable |
 | Repair | Sealed, becomes e-waste | 3D-printed body, replaceable battery |
 | AI | Fixed/proprietary | Swap in any LLM (Gemini, OpenAI, etc.) |
-| Design | Factory plastic | Fun Wall-E style with animated eyes |
+| Design | Fun Wall-E style with animated eyes |
 
----
-
-## 🔭 CAD Design
-
-Open the 3D model in Autodesk Fusion 360:
-👉 [https://a360.co/4hqVOWh](https://a360.co/4hqVOWh)
-
----
 
 ## 📄 License
 
