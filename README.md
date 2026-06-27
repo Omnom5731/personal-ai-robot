@@ -2,6 +2,7 @@
 # Personal AI Robot — 20251GTY35
 
 A low-cost, open-source, Wall-E-style personal AI robot built on Raspberry Pi 5. It listens for a wake word, processes voice commands using Google Gemini AI, and responds with synthesized speech.
+---
 **Team GR-30 | MEP1001 Project**
 
 | Name |
@@ -11,7 +12,7 @@ A low-cost, open-source, Wall-E-style personal AI robot built on Raspberry Pi 5.
 | Nandani Porwal |
 | Ankita Sahu |
 | Prakash Lal |
-
+---
 <img width="465" height="510" alt="Screenshot 2026-06-27 at 1 29 04 PM" src="https://github.com/user-attachments/assets/b3923246-430d-48e3-a101-908b97fda6f3" />
 ---
 
