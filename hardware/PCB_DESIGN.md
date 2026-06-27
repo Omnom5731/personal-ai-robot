@@ -17,7 +17,7 @@ The custom PCB (76×68×2 mm) houses the TB6612FNG motor driver and manages conn
 ## PCB Schematics
 
 ### Schematic View
-![PCB Schematic](../assets/pcb-schematic.png)
+<img width="362" height="193" alt="Screenshot 2025-10-27 at 11 16 57 PM" src="https://github.com/user-attachments/assets/cb042998-2179-4cec-9109-23d90681215f" />
 
 Motor driver connections with all signal lines and power rails labeled.
 
@@ -25,15 +25,15 @@ Motor driver connections with all signal lines and power rails labeled.
 
 ## PCB Layouts
 
-### Top Layer (Component Side)
-![PCB Top Layout](../assets/pcb-top-layout.png)
+### 3D view
+<img width="535" height="406" alt="Screenshot 2025-10-27 at 11 12 57 PM" src="https://github.com/user-attachments/assets/22dcbcb2-acb4-4bf5-90a2-1513b5ef60b3" />
 
 Component placement showing connectors and motor driver positioning.
 
 ---
 
-### Bottom Layer (Trace Side)
-![PCB Bottom Layout](../assets/pcb-bottom-layout.png)
+### 2D view
+<img width="500" height="445" alt="20251GTY35_Om" src="https://github.com/user-attachments/assets/ff1226bb-1d69-4216-9b21-763e48568d99" />
 
 Copper traces routing power and signals between motor driver, battery, and Raspberry Pi headers.
 
