@@ -206,4 +206,4 @@ Open the 3D model in Autodesk Fusion 360:
 
 ## 📄 License
 
-MIT License — free to use, modify, and build upon.
+free to use, modify, and build upon.
