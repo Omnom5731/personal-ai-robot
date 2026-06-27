@@ -3,6 +3,7 @@
 ## Overview
 
 The Raspberry Pi 5 is the central controller for all subsystems.
+<img width="1200" height="947" alt="Untitled design" src="https://github.com/user-attachments/assets/0610a6e8-64a0-4861-9612-4731745a02c2" />
 
 ## Raspberry Pi GPIO Assignments
 
